@@ -1,6 +1,6 @@
 # Vektopay C# SDK
 
-C# SDK for Vektopay API (server-side). Supports transactions (checkout), charges, checkout sessions, and charge status polling.
+C# SDK for Vektopay API (server-side). Supports payments, checkout sessions, and payment status polling.
 
 ## Setup
 
